@@ -1,2 +1,2 @@
 # hello_C
-hw2
+hw prob2
